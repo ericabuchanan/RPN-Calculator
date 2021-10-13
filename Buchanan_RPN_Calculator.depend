@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1621959050 source:c:\users\erica\documents\buchanan\buchanan_rpn_calculator\stack.cpp
+	"Stack.h"
+
+1621959644 c:\users\erica\documents\buchanan\buchanan_rpn_calculator\stack.h
+
+1621959340 source:c:\users\erica\documents\buchanan\buchanan_rpn_calculator\main.cpp
+	<iostream>
+	"Stack.h"
+
+1622586402 source:c:\users\erica\documents\github\rpncalculator-erica-buchanan\buchanan_rpn_calculator\main.cpp
+	<iostream>
+	"Stack.h"
+	"Calculator.h"
+
+1622586336 c:\users\erica\documents\github\rpncalculator-erica-buchanan\buchanan_rpn_calculator\stack.h
+
+1622500418 c:\users\erica\documents\github\rpncalculator-erica-buchanan\buchanan_rpn_calculator\calculator.h
+	"Stack.h"
+
+1622586779 source:c:\users\erica\documents\github\rpncalculator-erica-buchanan\buchanan_rpn_calculator\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1622586669 source:c:\users\erica\documents\github\rpncalculator-erica-buchanan\buchanan_rpn_calculator\calculator.cpp
+	"Calculator.h"
+	<iostream>
+
